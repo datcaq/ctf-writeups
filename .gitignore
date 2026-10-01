@@ -7,3 +7,6 @@ __pycache__/
 /gps-flag.png
 .DS_Store
 Thumbs.db
+/CSCV2026/crypto/typhone/checkpoint.json
+/CSCV2026/crypto/typhone/bd_result.json
+/CSCV2026/crypto/typhone/layer_*.txt

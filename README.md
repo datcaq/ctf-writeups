@@ -7,6 +7,7 @@ Tổng hợp write-up và script tái hiện kết quả từ các thử thách 
 | Giải | Thể loại | Challenge | Kỹ thuật chính | Write-up |
 |---|---|---|---|---|
 | CSCV2026 | Misc | **Weirdo** | PCAP · MAVLink · CRC · GPS visualization | [Đọc bài](CSCV2026/misc/weirdo/) |
+| CSCV2026 | Crypto | **Typhone** | LCG · RSA · GCM nonce reuse · ECDSA · Lattice attacks | [Đọc bài](CSCV2026/crypto/typhone/) |
 
 ## Bài nổi bật: Weirdo
 
