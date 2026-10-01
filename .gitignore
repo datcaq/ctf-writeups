@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+*.pcap
+*.pcapng
+/gps-flag.png
+.DS_Store
+Thumbs.db
